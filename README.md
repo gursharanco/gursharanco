@@ -1,4 +1,4 @@
-## Hi, I’m Gursharan 👋
+## Hi, I’m Gursharan Singh 👋
 
 I’m a frontend developer focused on building clean, responsive, and user-friendly web interfaces. I enjoy working at the intersection of design and code, with an emphasis on maintainability and performance.
 
