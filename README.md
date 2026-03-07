@@ -16,5 +16,5 @@ I’m a frontend developer focused on building clean, responsive, and user-frien
 ### Get in touch
 - Portfolio: https://gursharan.me
 - LinkedIn: https://linkedin.com/in/gursharanme
-- https://x.com/gursharandotme
+- X/Twitter: https://x.com/gursharandotme
 - Email: contact.gursharan.me@gmail.com
